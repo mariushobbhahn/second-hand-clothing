@@ -1,0 +1,67 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1988,1988,1988,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,898351,,,0
+H0,1988,1988,1988,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4131518,,,,4131518,,4895774,,,0
+H0,1988,1988,1988,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,74648,,,,74648,,116052,,,0
+H0,1988,1988,1988,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,601528,,,,601528,,1330385,,,0
+H0,1988,1988,1988,4,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3771989,,,,3771989,,4832000,,,0
+H0,1988,1988,1988,4,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,97435144,,,,97435144,,55211000,,,0
+H0,1988,1988,1988,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,325362,,,,325362,,525104,,,0
+H0,1988,1988,1988,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,68093,,,,68093,,73784,,,0
+H0,1988,1988,1988,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2096,,,,2096,,42138,,,0
+H0,1988,1988,1988,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75148,,,,75148,,87738,,,0
+H0,1988,1988,1988,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,274007,,,,274007,,2776516,,,0
+H0,1988,1988,1988,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,38560995,,,,38560995,,27126203,,,0
+H0,1988,1988,1988,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1343359,,,,1343359,,1365444,,,0
+H0,1988,1988,1988,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,262153,,,,262153,,628162,,,0
+H0,1988,1988,1988,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,135116,,,,135116,,92009,,,0
+H0,1988,1988,1988,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,47678,,,,47678,,151041,,,0
+H0,1988,1988,1988,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1812379,,,,1812379,,1352095,,,0
+H0,1988,1988,1988,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1678,,,,1678,,13304,,,0
+H0,1988,1988,1988,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,726745,,,,726745,,486941,,,0
+H0,1988,1988,1988,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2021673,,,,2021673,,1509871,,,0
+H0,1988,1988,1988,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,270351,,,,270351,,1182573,,,0
+H0,1989,1989,1989,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,735058,,,0
+H0,1989,1989,1989,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3457638,,,,3457638,,5369413,,,0
+H0,1989,1989,1989,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1581477,,,,1581477,,2704822,,,0
+H0,1989,1989,1989,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,500,,,,500,,12040,,,0
+H0,1989,1989,1989,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,665189,,,,665189,,1667102,,,0
+H0,1989,1989,1989,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,542,,,,542,,2685,,,0
+H0,1989,1989,1989,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3085601,,,0
+H0,1989,1989,1989,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,10927051,,,0
+H0,1989,1989,1989,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,201,,,0
+H0,1989,1989,1989,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3233,,,0
+H0,1989,1989,1989,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,772270,,,,772270,,3526117,,,0
+H0,1989,1989,1989,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8336474,,,,8336474,,5149589,,,0
+H0,1989,1989,1989,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,129299,,,,129299,,170945,,,0
+H0,1989,1989,1989,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1304931,,,,1304931,,1199803,,,0
+H0,1989,1989,1989,4,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4300426,,,,4300426,,5282000,,,0
+H0,1989,1989,1989,4,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,104501728,,,,104501728,,56071000,,,0
+H0,1989,1989,1989,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,290064,,,,290064,,658993,,,0
+H0,1989,1989,1989,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40245,,,,40245,,39495,,,0
+H0,1989,1989,1989,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2230,,,,2230,,55750,,,0
+H0,1989,1989,1989,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,92710,,,,92710,,104776,,,0
+H0,1989,1989,1989,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3455627,,,,3455627,,8291814,,,0
+H0,1989,1989,1989,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10521,,,,10521,,29000,,,0
+H0,1989,1989,1989,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,460505,,,,460505,,4323568,,,0
+H0,1989,1989,1989,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,42981334,,,,42981334,,29863323,,,0
+H0,1989,1989,1989,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2684611,,,,2684611,,2767340,,,0
+H0,1989,1989,1989,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,296207,,,,296207,,571136,,,0
+H0,1989,1989,1989,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12182548,,,,12182548,,10800114,,,0
+H0,1989,1989,1989,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2823318,,,,2823318,,2422061,,,0
+H0,1989,1989,1989,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,245619,,,,245619,,1016355,,,0
+H0,1989,1989,1989,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,59567,,,,59567,,94999,,,0
+H0,1989,1989,1989,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,376459,,,,376459,,382259,,,0
+H0,1989,1989,1989,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,76303,,,,76303,,71602,,,0
+H0,1989,1989,1989,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,142559,,,,142559,,204703,,,0
+H0,1989,1989,1989,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,746515,,,,746515,,714648,,,0
+H0,1989,1989,1989,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6594,,,,6594,,29818,,,0
+H0,1989,1989,1989,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15989346,,,,15989346,,17852612,,,0
+H0,1989,1989,1989,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21007928,,,,21007928,,11982177,,,0
+H0,1989,1989,1989,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9603805,,,,9603805,,8814863,,,0
+H0,1989,1989,1989,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,267704,,,,267704,,254867,,,0
+H0,1989,1989,1989,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,730017,,,,730017,,432819,,,0
+H0,1989,1989,1989,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2595899,,,,2595899,,2314908,,,0
+H0,1989,1989,1989,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,184417,,,,184417,,494753,,,0
+H0,1989,1989,1989,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2359,,,,2359,,11334,,,0
+H0,1989,1989,1989,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19015,,,,19015,,56064,,,0
+H0,1989,1989,1989,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,53773,,,,53773,,24028,,,0

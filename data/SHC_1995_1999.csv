@@ -1,0 +1,1115 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,1996,1996,1996,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8693861,,,,8693861,,5039074,,,0
+H1,1996,1996,1996,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,57062,,,,57062,,92383,,,0
+H1,1996,1996,1996,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6883808,,,,6883808,,5524874,,,0
+H1,1996,1996,1996,4,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3562,,,,3562,,587,,,0
+H1,1996,1996,1996,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,280,,,,280,,1672,,,0
+H1,1996,1996,1996,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,607,,,,607,,11436,,,0
+H1,1996,1996,1996,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1,,,0
+H1,1996,1996,1996,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,4182635,,,0
+H1,1996,1996,1996,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16305213,,,,16305213,,24542111,,,0
+H1,1996,1996,1996,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2208686,,,,2208686,,1789708,,,0
+H1,1996,1996,1996,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17163168,,,,17163168,,9136070,,,0
+H1,1996,1996,1996,4,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45613124,,,,45613124,,37520816,,,0
+H1,1996,1996,1996,4,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,87984656,,,,87984656,,110713904,,,0
+H1,1996,1996,1996,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4161774,,,,4161774,,1258163,,,0
+H1,1996,1996,1996,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,211157,,,,211157,,128911,,,0
+H1,1996,1996,1996,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20393276,,,,20393276,,8791548,,,0
+H1,1996,1996,1996,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,50112801,,,0
+H1,1996,1996,1996,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,599373,,,,599373,,544383,,,0
+H1,1996,1996,1996,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,223561,,,,223561,,406875,,,0
+H1,1996,1996,1996,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,171,,,,171,,2104,,,0
+H1,1996,1996,1996,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1194,,,,1194,,9078,,,0
+H1,1996,1996,1996,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,242,,,,242,,981,,,0
+H1,1996,1996,1996,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32600000,,,,32600000,,23022182,,,0
+H1,1996,1996,1996,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7379618,,,,7379618,,7844900,,,0
+H1,1996,1996,1996,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,353499,,,,353499,,2111408,,,0
+H1,1996,1996,1996,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9762140,,,,9762140,,6350074,,,0
+H1,1996,1996,1996,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5374,,,,5374,,10317,,,0
+H1,1996,1996,1996,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4768224,,,,4768224,,3011437,,,0
+H1,1996,1996,1996,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,740312,,,,740312,,256421,,,0
+H1,1996,1996,1996,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1125,,,,1125,,57344,,,0
+H1,1996,1996,1996,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,43312,,,,43312,,145076,,,0
+H1,1996,1996,1996,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1230015,,,,1230015,,1997217,,,0
+H1,1996,1996,1996,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22230916,,,,22230916,,27703828,,,0
+H1,1996,1996,1996,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,38229708,,,,38229708,,45574880,,,0
+H1,1996,1996,1996,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1625420,,,,1625420,,908031,,,0
+H1,1996,1996,1996,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14108,,,,14108,,4613,,,0
+H1,1996,1996,1996,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9949378,,,,9949378,,13211383,,,0
+H1,1996,1996,1996,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,237639952,,,,237639952,,179853632,,,0
+H1,1996,1996,1996,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,187763,,,,187763,,905076,,,0
+H1,1996,1996,1996,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,194076,,,,194076,,137159,,,0
+H1,1996,1996,1996,4,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4,,,,4,,801,,,0
+H1,1996,1996,1996,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,67605209,,,,67605209,,54085219,,,0
+H1,1996,1996,1996,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,39328464,,,,39328464,,34267812,,,0
+H1,1996,1996,1996,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22947108,,,,22947108,,12962000,,,0
+H1,1996,1996,1996,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2028437,,,,2028437,,1145000,,,0
+H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9631458,,,,9631458,,31399584,,,0
+H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,34486,,,,34486,,95849,,,0
+H1,1996,1996,1996,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3022920,,,,3022920,,2040543,,,0
+H1,1996,1996,1996,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,459091,,,,459091,,4291679,,,0
+H1,1996,1996,1996,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1031000,,,0
+H1,1996,1996,1996,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36554952,,,,36554952,,30091918,,,0
+H1,1996,1996,1996,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,63548520,,,,63548520,,63710620,,,0
+H1,1996,1996,1996,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4588944,,,,4588944,,108165683,,,0
+H1,1996,1996,1996,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,61098328,,,,61098328,,49508250,,,0
+H1,1996,1996,1996,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1842395,,,,1842395,,2131379,,,0
+H1,1996,1996,1996,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50396792,,,,50396792,,26884952,,,0
+H1,1996,1996,1996,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,441,,,,441,,2060,,,0
+H1,1996,1996,1996,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,484,,,,484,,3014,,,0
+H1,1996,1996,1996,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2930996,,,,2930996,,3355166,,,0
+H1,1996,1996,1996,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4803,,,,4803,,18762,,,0
+H1,1996,1996,1996,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,707,,,,707,,61568,,,0
+H1,1996,1996,1996,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16121831,,,,16121831,,14094779,,,0
+H1,1996,1996,1996,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9336365,,,,9336365,,34651392,,,0
+H1,1996,1996,1996,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,59599144,,,,59599144,,31357812,,,0
+H1,1996,1996,1996,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,66383828,,,,66383828,,86246120,,,0
+H1,1996,1996,1996,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,30539,,,,30539,,210995,,,0
+H1,1996,1996,1996,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,268323,,,,268323,,356875,,,0
+H1,1996,1996,1996,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,95869,,,,95869,,274247,,,0
+H1,1996,1996,1996,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4686028,,,,4686028,,2707749,,,0
+H1,1996,1996,1996,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,72347344,,,,72347344,,30479000,,,0
+H1,1996,1996,1996,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7212999,,,,7212999,,7258000,,,0
+H1,1996,1996,1996,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,150893,,,,150893,,443427,,,0
+H1,1996,1996,1996,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,330810,,,,330810,,460935,,,0
+H1,1996,1996,1996,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6949289,,,,6949289,,8617314,,,0
+H1,1996,1996,1996,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50277,,,,50277,,7522,,,0
+H1,1996,1996,1996,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2019173,,,,2019173,,924527,,,0
+H1,1996,1996,1996,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,37026,,,,37026,,54442,,,0
+H1,1996,1996,1996,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,89375,,,,89375,,95671,,,0
+H1,1996,1996,1996,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10038,,,,10038,,45644,,,0
+H1,1996,1996,1996,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7145500,,,,7145500,,8889030,,,0
+H1,1996,1996,1996,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,744824,,,,744824,,636242,,,0
+H1,1996,1996,1996,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,120728,,,,120728,,275206,,,0
+H1,1996,1996,1996,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14440842,,,,14440842,,7178319,,,0
+H1,1996,1996,1996,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1897100,,,,1897100,,880197,,,0
+H1,1996,1996,1996,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20228592,,,,20228592,,14698767,,,0
+H1,1996,1996,1996,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,881,,,,881,,3120,,,0
+H1,1996,1996,1996,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17684,,,,17684,,113596,,,0
+H1,1996,1996,1996,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18375072,,,,18375072,,24510656,,,0
+H1,1996,1996,1996,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,615094,,,,615094,,7015446,,,0
+H1,1996,1996,1996,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24765,,,,24765,,35744,,,0
+H1,1996,1996,1996,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7429229,,,,7429229,,14617344,,,0
+H1,1996,1996,1996,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75872320,,,,75872320,,89018408,,,0
+H1,1996,1996,1996,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6622572,,,,6622572,,7163046,,,0
+H1,1996,1996,1996,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,218494622,,,,218494622,,250216160,,,0
+H1,1996,1996,1996,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2572,,,,2572,,4614,,,0
+H1,1997,1997,1997,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6232092,,,,6232092,,4771718,,,0
+H1,1997,1997,1997,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,105085,,,,105085,,33482,,,0
+H1,1997,1997,1997,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10575296,,,,10575296,,7906068,,,0
+H1,1997,1997,1997,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,198,,,,198,,2990,,,0
+H1,1997,1997,1997,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,62,,,,62,,227,,,0
+H1,1997,1997,1997,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13,,,,13,,60,,,0
+H1,1997,1997,1997,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3376294,,,0
+H1,1997,1997,1997,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14571307,,,,14571307,,25367104,,,0
+H1,1997,1997,1997,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1324437,,,,1324437,,790931,,,0
+H1,1997,1997,1997,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17320966,,,,17320966,,8112832,,,0
+H1,1997,1997,1997,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,138760,,,,138760,,705612,,,0
+H1,1997,1997,1997,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,272198,,,,272198,,4106920,,,0
+H1,1997,1997,1997,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,204820,,,,204820,,431624,,,0
+H1,1997,1997,1997,4,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,53704056,,,,53704056,,37099592,,,0
+H1,1997,1997,1997,4,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,93778944,,,,93778944,,105192232,,,0
+H1,1997,1997,1997,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1388504,,,,1388504,,2091463,,,0
+H1,1997,1997,1997,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,476,,,,476,,500,,,0
+H1,1997,1997,1997,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,520040,,,,520040,,597709,,,0
+H1,1997,1997,1997,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8156,,,,8156,,120318,,,0
+H1,1997,1997,1997,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4588068,,,,4588068,,2248227,,,0
+H1,1997,1997,1997,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,489153,,,,489153,,186818,,,0
+H1,1997,1997,1997,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,41727595,,,,41727595,,17800017,,,0
+H1,1997,1997,1997,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,55165218,,,0
+H1,1997,1997,1997,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,941647,,,,941647,,1508202,,,0
+H1,1997,1997,1997,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1458676,,,,1458676,,1507719,,,0
+H1,1997,1997,1997,4,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,480,,,,480,,17070,,,0
+H1,1997,1997,1997,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11486088,,,,11486088,,18185330,,,0
+H1,1997,1997,1997,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18083,,,,18083,,30310,,,0
+H1,1997,1997,1997,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2411438,,,,2411438,,1380985,,,0
+H1,1997,1997,1997,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2090462,,,,2090462,,1412585,,,0
+H1,1997,1997,1997,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,527,,,0
+H1,1997,1997,1997,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4201354,,,,4201354,,3988403,,,0
+H1,1997,1997,1997,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12683,,,,12683,,102795,,,0
+H1,1997,1997,1997,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80671,,,,80671,,80515,,,0
+H1,1997,1997,1997,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,246000,,,,246000,,312995,,,0
+H1,1997,1997,1997,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,551,,,,551,,2850,,,0
+H1,1997,1997,1997,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4295,,,,4295,,9442,,,0
+H1,1997,1997,1997,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29251200,,,,29251200,,16321315,,,0
+H1,1997,1997,1997,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6023838,,,,6023838,,2294356,,,0
+H1,1997,1997,1997,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1327267,,,,1327267,,415201,,,0
+H1,1997,1997,1997,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,830,,,,830,,34826,,,0
+H1,1997,1997,1997,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17528,,,,17528,,92108,,,0
+H1,1997,1997,1997,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2164267,,,,2164267,,4278669,,,0
+H1,1997,1997,1997,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28289660,,,,28289660,,25684624,,,0
+H1,1997,1997,1997,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50039640,,,,50039640,,51086144,,,0
+H1,1997,1997,1997,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,128,,,,128,,470,,,0
+H1,1997,1997,1997,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3332034,,,,3332034,,3932148,,,0
+H1,1997,1997,1997,4,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,33741,,,,33741,,262380,,,0
+H1,1997,1997,1997,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,444069,,,,444069,,885693,,,0
+H1,1997,1997,1997,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,100513,,,,100513,,37953,,,0
+H1,1997,1997,1997,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8349458,,,,8349458,,7605251,,,0
+H1,1997,1997,1997,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,260777680,,,,260777680,,179343232,,,0
+H1,1997,1997,1997,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,405043,,,,405043,,1133070,,,0
+H1,1997,1997,1997,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,150082,,,,150082,,71144,,,0
+H1,1997,1997,1997,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8473908,,,,8473908,,8350783,,,0
+H1,1997,1997,1997,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1363,,,,1363,,3639,,,0
+H1,1997,1997,1997,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,164127,,,,164127,,530000,,,0
+H1,1997,1997,1997,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35669,,,,35669,,156000,,,0
+H1,1997,1997,1997,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4024338,,,,4024338,,1648278,,,0
+H1,1997,1997,1997,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9124,,,,9124,,21128,,,0
+H1,1997,1997,1997,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,62395769,,,,62395769,,42550272,,,0
+H1,1997,1997,1997,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36032646,,,,36032646,,26666812,,,0
+H1,1997,1997,1997,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29614056,,,,29614056,,13568000,,,0
+H1,1997,1997,1997,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3774962,,,,3774962,,1746000,,,0
+H1,1997,1997,1997,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12334,,,,12334,,132541,,,0
+H1,1997,1997,1997,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8625,,,,8625,,3925,,,0
+H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3855003,,,,3855003,,7046340,,,0
+H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80582,,,,80582,,208286,,,0
+H1,1997,1997,1997,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2016711,,,,2016711,,1212520,,,0
+H1,1997,1997,1997,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,471486,,,,471486,,4938446,,,0
+H1,1997,1997,1997,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1901000,,,0
+H1,1997,1997,1997,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3000,,,0
+H1,1997,1997,1997,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,39360948,,,,39360948,,28564764,,,0
+H1,1997,1997,1997,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,67421792,,,,67421792,,63617376,,,0
+H1,1997,1997,1997,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3929002,,,,3929002,,87461639,,,0
+H1,1997,1997,1997,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,61787818,,,,61787818,,44651033,,,0
+H1,1997,1997,1997,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18196096,,,,18196096,,11401878,,,0
+H1,1997,1997,1997,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,64184,,,,64184,,217283,,,0
+H1,1997,1997,1997,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1684335,,,,1684335,,2591386,,,0
+H1,1997,1997,1997,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80327968,,,,80327968,,42234680,,,0
+H1,1997,1997,1997,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16354098,,,,16354098,,13426251,,,0
+H1,1997,1997,1997,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3536744,,,,3536744,,2837119,,,0
+H1,1997,1997,1997,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6529052,,,,6529052,,5819112,,,0
+H1,1997,1997,1997,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,274892,,,,274892,,168145,,,0
+H1,1997,1997,1997,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28398508,,,,28398508,,10707288,,,0
+H1,1997,1997,1997,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6214244,,,,6214244,,2120389,,,0
+H1,1997,1997,1997,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6000,,,,6000,,1239,,,0
+H1,1997,1997,1997,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1812,,,,1812,,525,,,0
+H1,1997,1997,1997,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4508419,,,,4508419,,4716832,,,0
+H1,1997,1997,1997,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20,,,,20,,888,,,0
+H1,1997,1997,1997,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,62263616,,,,62263616,,51893364,,,0
+H1,1997,1997,1997,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17147340,,,,17147340,,18472284,,,0
+H1,1997,1997,1997,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5004,,,,5004,,15081,,,0
+H1,1997,1997,1997,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12432,,,,12432,,33261,,,0
+H1,1997,1997,1997,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1189,,,,1189,,2689,,,0
+H1,1997,1997,1997,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6635,,,,6635,,40212,,,0
+H1,1997,1997,1997,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11138858,,,,11138858,,7794377,,,0
+H1,1997,1997,1997,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9295616,,,,9295616,,39955052,,,0
+H1,1997,1997,1997,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,521537,,,,521537,,577160,,,0
+H1,1997,1997,1997,4,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5526,,,,5526,,180887,,,0
+H1,1997,1997,1997,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75864584,,,,75864584,,40713060,,,0
+H1,1997,1997,1997,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,83006848,,,,83006848,,91289064,,,0
+H1,1997,1997,1997,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11110,,,,11110,,138402,,,0
+H1,1997,1997,1997,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,330385,,,,330385,,372659,,,0
+H1,1997,1997,1997,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3977504,,,,3977504,,3549803,,,0
+H1,1997,1997,1997,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14,,,,14,,26,,,0
+H1,1997,1997,1997,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36870,,,,36870,,160765,,,0
+H1,1997,1997,1997,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6074752,,,,6074752,,2955608,,,0
+H1,1997,1997,1997,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80429992,,,,80429992,,42866328,,,0
+H1,1997,1997,1997,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10020010,,,,10020010,,9333043,,,0
+H1,1997,1997,1997,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,116931,,,,116931,,471422,,,0
+H1,1997,1997,1997,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,339172,,,,339172,,250760,,,0
+H1,1997,1997,1997,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24809936,,,,24809936,,12449000,,,0
+H1,1997,1997,1997,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,483562,,,,483562,,77000,,,0
+H1,1997,1997,1997,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,27116000,,,,27116000,,10843980,,,0
+H1,1997,1997,1997,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,254673,,,,254673,,287214,,,0
+H1,1997,1997,1997,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6002138,,,,6002138,,6458435,,,0
+H1,1997,1997,1997,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,25457,,,,25457,,19340,,,0
+H1,1997,1997,1997,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,85,,,,85,,601,,,0
+H1,1997,1997,1997,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2,,,,2,,127,,,0
+H1,1997,1997,1997,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3592548,,,,3592548,,1874771,,,0
+H1,1997,1997,1997,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,88365,,,,88365,,611480,,,0
+H1,1997,1997,1997,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,54648413,,,,54648413,,42690854,,,0
+H1,1997,1997,1997,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45857704,,,,45857704,,43708146,,,0
+H1,1997,1997,1997,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7810850,,,,7810850,,9278192,,,0
+H1,1997,1997,1997,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2365293,,,,2365293,,4338123,,,0
+H1,1997,1997,1997,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40629,,,,40629,,128828,,,0
+H1,1997,1997,1997,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15202,,,,15202,,59778,,,0
+H1,1997,1997,1997,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11447163,,,,11447163,,5715510,,,0
+H1,1997,1997,1997,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,439892,,,0
+H1,1997,1997,1997,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8606575,,,,8606575,,9352682,,,0
+H1,1997,1997,1997,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1187939,,,,1187939,,697381,,,0
+H1,1997,1997,1997,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,544606,,,,544606,,587330,,,0
+H1,1997,1997,1997,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14936436,,,,14936436,,6273855,,,0
+H1,1997,1997,1997,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1994058,,,,1994058,,1019942,,,0
+H1,1997,1997,1997,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22112800,,,,22112800,,15207837,,,0
+H1,1997,1997,1997,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20388,,,,20388,,83503,,,0
+H1,1997,1997,1997,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12251,,,,12251,,29259,,,0
+H1,1997,1997,1997,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3688,,,0
+H1,1997,1997,1997,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17174896,,,,17174896,,19467240,,,0
+H1,1997,1997,1997,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,248761,,,,248761,,558145,,,0
+H1,1997,1997,1997,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,38222,,,,38222,,39645,,,0
+H1,1997,1997,1997,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,152,,,,152,,1358,,,0
+H1,1997,1997,1997,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8251498,,,,8251498,,14023192,,,0
+H1,1997,1997,1997,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,66403108,,,,66403108,,95360664,,,0
+H1,1997,1997,1997,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31887892,,,,31887892,,18151040,,,0
+H1,1997,1997,1997,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16739,,,,16739,,113306,,,0
+H1,1997,1997,1997,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6221025,,,,6221025,,6286902,,,0
+H1,1997,1997,1997,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,241192230,,,,241192230,,274385586,,,0
+H1,1997,1997,1997,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,208,,,,208,,2263,,,0
+H1,1997,1997,1997,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4107,,,,4107,,22128,,,0
+H1,1997,1997,1997,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17593,,,,17593,,8797,,,0
+H1,1997,1997,1997,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9790754,,,,9790754,,16111706,,,0
+H1,1997,1997,1997,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,168590,,,,168590,,2061317,,,0
+H1,1998,1998,1998,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7758398,,,,7758398,,8967105,,,0
+H1,1998,1998,1998,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,97562,,,,97562,,39570,,,0
+H1,1998,1998,1998,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2438454,,,,2438454,,4128845,,,0
+H1,1998,1998,1998,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,305,,,,305,,7188,,,0
+H1,1998,1998,1998,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4000,,,,4000,,669,,,0
+H1,1998,1998,1998,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,142,,,,142,,2015,,,0
+H1,1998,1998,1998,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,237,,,,237,,6822,,,0
+H1,1998,1998,1998,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,2231130,,,0
+H1,1998,1998,1998,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16090474,,,,16090474,,19211142,,,0
+H1,1998,1998,1998,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1367114,,,,1367114,,1270700,,,0
+H1,1998,1998,1998,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18631344,,,,18631344,,10018993,,,0
+H1,1998,1998,1998,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,154430,,,,154430,,1041499,,,0
+H1,1998,1998,1998,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,396261,,,,396261,,3882397,,,0
+H1,1998,1998,1998,4,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,43146944,,,,43146944,,29785740,,,0
+H1,1998,1998,1998,4,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,89419680,,,,89419680,,101936576,,,0
+H1,1998,1998,1998,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1204427,,,,1204427,,2149949,,,0
+H1,1998,1998,1998,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,956,,,,956,,1229,,,0
+H1,1998,1998,1998,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,530618,,,,530618,,546053,,,0
+H1,1998,1998,1998,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4232,,,,4232,,88281,,,0
+H1,1998,1998,1998,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,484225,,,,484225,,576685,,,0
+H1,1998,1998,1998,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8308,,,,8308,,3624,,,0
+H1,1998,1998,1998,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7005197,,,,7005197,,4548140,,,0
+H1,1998,1998,1998,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,257416,,,,257416,,120680,,,0
+H1,1998,1998,1998,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4152729,,,,4152729,,4764689,,,0
+H1,1998,1998,1998,4,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35183,,,,35183,,36299,,,0
+H1,1998,1998,1998,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45611968,,,,45611968,,23004766,,,0
+H1,1998,1998,1998,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,48257464,,,0
+H1,1998,1998,1998,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1121533,,,,1121533,,1762518,,,0
+H1,1998,1998,1998,4,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,30,,,,30,,40,,,0
+H1,1998,1998,1998,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1676098,,,,1676098,,1768305,,,0
+H1,1998,1998,1998,4,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14375,,,,14375,,16949,,,0
+H1,1998,1998,1998,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11015036,,,,11015036,,15953556,,,0
+H1,1998,1998,1998,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22387,,,,22387,,18109,,,0
+H1,1998,1998,1998,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2482105,,,,2482105,,1333003,,,0
+H1,1998,1998,1998,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2550773,,,,2550773,,1644875,,,0
+H1,1998,1998,1998,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,4767,,,0
+H1,1998,1998,1998,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3932827,,,,3932827,,3617376,,,0
+H1,1998,1998,1998,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3679,,,,3679,,68906,,,0
+H1,1998,1998,1998,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,120138,,,,120138,,916106,,,0
+H1,1998,1998,1998,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,383033,,,,383033,,1743924,,,0
+H1,1998,1998,1998,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3483,,,,3483,,11854,,,0
+H1,1998,1998,1998,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,310,,,,310,,375,,,0
+H1,1998,1998,1998,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28204296,,,,28204296,,16106974,,,0
+H1,1998,1998,1998,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6323183,,,,6323183,,4465439,,,0
+H1,1998,1998,1998,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,44775192,,,,44775192,,39243120,,,0
+H1,1998,1998,1998,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52761,,,,52761,,37484,,,0
+H1,1998,1998,1998,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10529,,,,10529,,60486,,,0
+H1,1998,1998,1998,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10704013,,,,10704013,,6123453,,,0
+H1,1998,1998,1998,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,347257,,,,347257,,3607953,,,0
+H1,1998,1998,1998,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8655,,,,8655,,7204,,,0
+H1,1998,1998,1998,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6083922,,,,6083922,,2708465,,,0
+H1,1998,1998,1998,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,823320,,,,823320,,462714,,,0
+H1,1998,1998,1998,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1389,,,,1389,,42154,,,0
+H1,1998,1998,1998,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13077,,,,13077,,62791,,,0
+H1,1998,1998,1998,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2086322,,,,2086322,,2825532,,,0
+H1,1998,1998,1998,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22101068,,,,22101068,,21988600,,,0
+H1,1998,1998,1998,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55767060,,,,55767060,,49885828,,,0
+H1,1998,1998,1998,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,995,,,,995,,2857,,,0
+H1,1998,1998,1998,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3338283,,,,3338283,,3672424,,,0
+H1,1998,1998,1998,4,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,26201,,,,26201,,196716,,,0
+H1,1998,1998,1998,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2520444,,,,2520444,,2197269,,,0
+H1,1998,1998,1998,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28538,,,,28538,,21759,,,0
+H1,1998,1998,1998,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1992737,,,,1992737,,1005549,,,0
+H1,1998,1998,1998,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,109709,,,,109709,,32831,,,0
+H1,1998,1998,1998,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19774810,,,,19774810,,11553000,,,0
+H1,1998,1998,1998,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,298879360,,,,298879360,,220336992,,,0
+H1,1998,1998,1998,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,308397,,,,308397,,1043808,,,0
+H1,1998,1998,1998,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,70800,,,,70800,,73433,,,0
+H1,1998,1998,1998,4,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,23,,,,23,,3006,,,0
+H1,1998,1998,1998,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10786160,,,,10786160,,10803427,,,0
+H1,1998,1998,1998,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,114233,,,,114233,,111781,,,0
+H1,1998,1998,1998,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8981691,,,,8981691,,6241067,,,0
+H1,1998,1998,1998,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,621,,,,621,,1038,,,0
+H1,1998,1998,1998,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,117501,,,,117501,,644000,,,0
+H1,1998,1998,1998,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40649,,,,40649,,88000,,,0
+H1,1998,1998,1998,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4565900,,,,4565900,,3021456,,,0
+H1,1998,1998,1998,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,76419,,,,76419,,332740,,,0
+H1,1998,1998,1998,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32996793,,,,32996793,,20894231,,,0
+H1,1998,1998,1998,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20847637,,,,20847637,,12875262,,,0
+H1,1998,1998,1998,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31292020,,,,31292020,,15862000,,,0
+H1,1998,1998,1998,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4225702,,,,4225702,,2792000,,,0
+H1,1998,1998,1998,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13369,,,,13369,,151551,,,0
+H1,1998,1998,1998,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,119449,,,,119449,,40727,,,0
+H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2670844,,,,2670844,,2409467,,,0
+H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,46885,,,,46885,,172981,,,0
+H1,1998,1998,1998,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2438711,,,,2438711,,752112,,,0
+H1,1998,1998,1998,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,740946,,,,740946,,5204128,,,0
+H1,1998,1998,1998,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1438000,,,0
+H1,1998,1998,1998,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,11000,,,0
+H1,1998,1998,1998,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,48610960,,,,48610960,,34484932,,,0
+H1,1998,1998,1998,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,63978244,,,,63978244,,63947236,,,0
+H1,1998,1998,1998,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,174087,,,,174087,,992422,,,0
+H1,1998,1998,1998,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2904061,,,,2904061,,44600055,,,0
+H1,1998,1998,1998,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55110592,,,,55110592,,31094498,,,0
+H1,1998,1998,1998,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4912137,,,,4912137,,2194287,,,0
+H1,1998,1998,1998,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,60489,,,,60489,,14199,,,0
+H1,1998,1998,1998,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13708897,,,,13708897,,15599550,,,0
+H1,1998,1998,1998,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50670628,,,,50670628,,34002636,,,0
+H1,1998,1998,1998,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,92308,,,,92308,,162097,,,0
+H1,1998,1998,1998,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1541792,,,,1541792,,1870966,,,0
+H1,1998,1998,1998,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,87362432,,,,87362432,,34560800,,,0
+H1,1998,1998,1998,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10390054,,,,10390054,,15006359,,,0
+H1,1998,1998,1998,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1587696,,,,1587696,,3276085,,,0
+H1,1998,1998,1998,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6405479,,,,6405479,,5737444,,,0
+H1,1998,1998,1998,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,123954,,,,123954,,102237,,,0
+H1,1998,1998,1998,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31127296,,,,31127296,,13941071,,,0
+H1,1998,1998,1998,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4754290,,,,4754290,,2924169,,,0
+H1,1998,1998,1998,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,374,,,0
+H1,1998,1998,1998,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3800038,,,,3800038,,3508313,,,0
+H1,1998,1998,1998,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52859532,,,,52859532,,35120968,,,0
+H1,1998,1998,1998,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17376637,,,,17376637,,10316133,,,0
+H1,1998,1998,1998,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6195915,,,,6195915,,4801697,,,0
+H1,1998,1998,1998,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8597,,,,8597,,22138,,,0
+H1,1998,1998,1998,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8000,,,,8000,,5148,,,0
+H1,1998,1998,1998,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2043,,,,2043,,10353,,,0
+H1,1998,1998,1998,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12457,,,,12457,,37725,,,0
+H1,1998,1998,1998,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10992792,,,,10992792,,4398104,,,0
+H1,1998,1998,1998,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7347134,,,,7347134,,16621045,,,0
+H1,1998,1998,1998,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,773024,,,,773024,,814295,,,0
+H1,1998,1998,1998,4,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,135,,,,135,,3648,,,0
+H1,1998,1998,1998,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,82321596,,,,82321596,,41153356,,,0
+H1,1998,1998,1998,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,85217966,,,,85217966,,96918559,,,0
+H1,1998,1998,1998,4,0,1,Import,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,558,,,0
+H1,1998,1998,1998,4,0,2,Export,530,Neth. Antilles,ANT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,660000,,,,660000,,4738330,,,0
+H1,1998,1998,1998,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12520,,,,12520,,67605,,,0
+H1,1998,1998,1998,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,331339,,,,331339,,367816,,,0
+H1,1998,1998,1998,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4643645,,,,4643645,,6395117,,,0
+H1,1998,1998,1998,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,664,,,,664,,79,,,0
+H1,1998,1998,1998,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14723667,,,,14723667,,12591201,,,0
+H1,1998,1998,1998,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12563016,,,,12563016,,9614106,,,0
+H1,1998,1998,1998,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31047,,,,31047,,84388,,,0
+H1,1998,1998,1998,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6728233,,,,6728233,,3783342,,,0
+H1,1998,1998,1998,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,315300,,,,315300,,390831,,,0
+H1,1998,1998,1998,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,202658,,,,202658,,329427,,,0
+H1,1998,1998,1998,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1624536,,,,1624536,,4013547,,,0
+H1,1998,1998,1998,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,77010568,,,,77010568,,41918000,,,0
+H1,1998,1998,1998,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10861892,,,,10861892,,11612000,,,0
+H1,1998,1998,1998,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,136448,,,,136448,,192696,,,0
+H1,1998,1998,1998,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,483722,,,,483722,,535802,,,0
+H1,1998,1998,1998,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28634936,,,,28634936,,14683000,,,0
+H1,1998,1998,1998,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1568000,,,,1568000,,74000,,,0
+H1,1998,1998,1998,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14819631,,,,14819631,,7710336,,,0
+H1,1998,1998,1998,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,27649,,,,27649,,22571,,,0
+H1,1998,1998,1998,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52,,,,52,,59,,,0
+H1,1998,1998,1998,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7204557,,,,7204557,,6326092,,,0
+H1,1998,1998,1998,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,99382,,,,99382,,102891,,,0
+H1,1998,1998,1998,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8975694,,,,8975694,,4154169,,,0
+H1,1998,1998,1998,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,70133,,,,70133,,357533,,,0
+H1,1998,1998,1998,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,49051480,,,,49051480,,24161836,,,0
+H1,1998,1998,1998,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35120520,,,,35120520,,24851932,,,0
+H1,1998,1998,1998,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5255334,,,,5255334,,9103295,,,0
+H1,1998,1998,1998,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,612149,,,,612149,,4182307,,,0
+H1,1998,1998,1998,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,116952,,,,116952,,1031085,,,0
+H1,1998,1998,1998,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,118506,,,,118506,,1006407,,,0
+H1,1998,1998,1998,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11646969,,,,11646969,,5392134,,,0
+H1,1998,1998,1998,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,228594,,,0
+H1,1998,1998,1998,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8478298,,,,8478298,,8487234,,,0
+H1,1998,1998,1998,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1309685,,,,1309685,,874755,,,0
+H1,1998,1998,1998,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,149653,,,,149653,,598573,,,0
+H1,1998,1998,1998,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19724862,,,,19724862,,8113722,,,0
+H1,1998,1998,1998,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1905027,,,,1905027,,1104324,,,0
+H1,1998,1998,1998,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24538460,,,,24538460,,18708076,,,0
+H1,1998,1998,1998,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9969003,,,,9969003,,7452387,,,0
+H1,1998,1998,1998,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5982258,,,,5982258,,3961643,,,0
+H1,1998,1998,1998,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8237,,,,8237,,45950,,,0
+H1,1998,1998,1998,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3019,,,,3019,,4591,,,0
+H1,1998,1998,1998,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,881,,,0
+H1,1998,1998,1998,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18326144,,,,18326144,,20457748,,,0
+H1,1998,1998,1998,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,165493,,,,165493,,591709,,,0
+H1,1998,1998,1998,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17234,,,,17234,,20284,,,0
+H1,1998,1998,1998,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8921580,,,,8921580,,10778607,,,0
+H1,1998,1998,1998,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80086480,,,,80086480,,115069240,,,0
+H1,1998,1998,1998,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,39289836,,,,39289836,,30270312,,,0
+H1,1998,1998,1998,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,662951,,,,662951,,2058526,,,0
+H1,1998,1998,1998,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7374461,,,,7374461,,7114211,,,0
+H1,1998,1998,1998,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,230918400,,,,230918400,,244904496,,,0
+H1,1998,1998,1998,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9740,,,,9740,,23853,,,0
+H1,1998,1998,1998,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1141,,,,1141,,1682,,,0
+H1,1998,1998,1998,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19686,,,,19686,,11006,,,0
+H1,1998,1998,1998,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6912833,,,,6912833,,18337624,,,0
+H1,1998,1998,1998,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,697924,,,,697924,,6254577,,,0
+H1,1999,1999,1999,4,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32309460,,,,32309460,,35438485,,,0
+H1,1999,1999,1999,4,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,293609,,,,293609,,1226313,,,0
+H1,1999,1999,1999,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,85364,,,,85364,,1090414,,,0
+H1,1999,1999,1999,4,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,718,,,,718,,4875,,,0
+H1,1999,1999,1999,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55,,,,55,,3642,,,0
+H1,1999,1999,1999,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12000,,,,12000,,1918,,,0
+H1,1999,1999,1999,4,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,34006,,,,34006,,520896,,,0
+H1,1999,1999,1999,4,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9687,,,,9687,,169387,,,0
+H1,1999,1999,1999,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,406293,,,,406293,,1404462,,,0
+H1,1999,1999,1999,4,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,60767,,,,60767,,785733,,,0
+H1,1999,1999,1999,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,11224,,,0
+H1,1999,1999,1999,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,304,,,,304,,2281,,,0
+H1,1999,1999,1999,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1854812,,,0
+H1,1999,1999,1999,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18545639,,,,18545639,,19299040,,,0
+H1,1999,1999,1999,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1565196,,,,1565196,,1053139,,,0
+H1,1999,1999,1999,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,30964345,,,,30964345,,9665487,,,0
+H1,1999,1999,1999,4,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,131653,,,,131653,,1099903,,,0
+H1,1999,1999,1999,4,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,474660,,,,474660,,8537652,,,0
+H1,1999,1999,1999,4,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,747851,,,,747851,,3572150,,,0
+H1,1999,1999,1999,4,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40431,,,,40431,,64998,,,0
+H1,1999,1999,1999,4,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35548265,,,,35548265,,20407000,,,0
+H1,1999,1999,1999,4,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,90011368,,,,90011368,,88360205,,,0
+H1,1999,1999,1999,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1139000,,,,1139000,,2102638,,,0
+H1,1999,1999,1999,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8723,,,,8723,,13514,,,0
+H1,1999,1999,1999,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,104552,,,,104552,,62608,,,0
+H1,1999,1999,1999,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1882,,,,1882,,37244,,,0
+H1,1999,1999,1999,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1284,,,,1284,,1018,,,0
+H1,1999,1999,1999,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,34558,,,,34558,,445,,,0
+H1,1999,1999,1999,4,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7559331,,,,7559331,,4116891,,,0
+H1,1999,1999,1999,4,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,84367,,,,84367,,76425,,,0
+H1,1999,1999,1999,4,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3573700,,,,3573700,,4587387,,,0
+H1,1999,1999,1999,4,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2125,,,,2125,,3699,,,0
+H1,1999,1999,1999,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21773045,,,,21773045,,19573674,,,0
+H1,1999,1999,1999,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,51817178,,,0
+H1,1999,1999,1999,4,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1155350,,,,1155350,,1721044,,,0
+H1,1999,1999,1999,4,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7,,,,7,,48,,,0
+H1,1999,1999,1999,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2529419,,,,2529419,,2670895,,,0
+H1,1999,1999,1999,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,180172,,,,180172,,99090,,,0
+H1,1999,1999,1999,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6813,,,,6813,,71451,,,0
+H1,1999,1999,1999,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8624838,,,,8624838,,11842778,,,0
+H1,1999,1999,1999,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15007,,,,15007,,10533,,,0
+H1,1999,1999,1999,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3728565,,,,3728565,,1642319,,,0
+H1,1999,1999,1999,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3845777,,,,3845777,,2202402,,,0
+H1,1999,1999,1999,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,737,,,,737,,811,,,0
+H1,1999,1999,1999,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4445420,,,,4445420,,3777550,,,0
+H1,1999,1999,1999,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5092,,,,5092,,9007,,,0
+H1,1999,1999,1999,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,70583,,,,70583,,56092,,,0
+H1,1999,1999,1999,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,550332,,,,550332,,2567112,,,0
+H1,1999,1999,1999,4,0,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3397644,,,,3397644,,6189322,,,0
+H1,1999,1999,1999,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,994,,,,994,,5085,,,0
+H1,1999,1999,1999,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31062,,,,31062,,11110,,,0
+H1,1999,1999,1999,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32344317,,,,32344317,,13745833,,,0
+H1,1999,1999,1999,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6259950,,,,6259950,,3466093,,,0
+H1,1999,1999,1999,4,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45634212,,,,45634212,,44229128,,,0
+H1,1999,1999,1999,4,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,500,,,,500,,520,,,0
+H1,1999,1999,1999,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22406,,,,22406,,321665,,,0
+H1,1999,1999,1999,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9403797,,,,9403797,,5089896,,,0
+H1,1999,1999,1999,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2692,,,,2692,,4110,,,0
+H1,1999,1999,1999,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2289814,,,,2289814,,6311704,,,0
+H1,1999,1999,1999,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,323,,,,323,,748,,,0
+H1,1999,1999,1999,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5715824,,,,5715824,,2785016,,,0
+H1,1999,1999,1999,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,409349,,,,409349,,1170093,,,0
+H1,1999,1999,1999,4,0,1,Import,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,727,,,,727,,28419,,,0
+H1,1999,1999,1999,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12244,,,,12244,,60671,,,0
+H1,1999,1999,1999,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3235413,,,,3235413,,2160750,,,0
+H1,1999,1999,1999,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17908838,,,,17908838,,14511490,,,0
+H1,1999,1999,1999,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55966868,,,,55966868,,43314316,,,0
+H1,1999,1999,1999,4,0,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3589,,,,3589,,10273,,,0
+H1,1999,1999,1999,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3459079,,,,3459079,,3337292,,,0
+H1,1999,1999,1999,4,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45041,,,,45041,,175792,,,0
+H1,1999,1999,1999,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1684537,,,,1684537,,1420031,,,0
+H1,1999,1999,1999,4,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,367303,,,,367303,,366076,,,0
+H1,1999,1999,1999,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2644824,,,,2644824,,936789,,,0
+H1,1999,1999,1999,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,61390,,,,61390,,157845,,,0
+H1,1999,1999,1999,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20311874,,,,20311874,,11716574,,,0
+H1,1999,1999,1999,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,273540896,,,,273540896,,185710016,,,0
+H1,1999,1999,1999,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,291017,,,,291017,,1051524,,,0
+H1,1999,1999,1999,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,714394,,,,714394,,384017,,,0
+H1,1999,1999,1999,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13740068,,,,13740068,,13148639,,,0
+H1,1999,1999,1999,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,77291,,,,77291,,47060,,,0
+H1,1999,1999,1999,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12390448,,,,12390448,,8780313,,,0
+H1,1999,1999,1999,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20250,,,,20250,,13223,,,0
+H1,1999,1999,1999,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,264134,,,,264134,,757845,,,0
+H1,1999,1999,1999,4,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,39143,,,,39143,,54947,,,0
+H1,1999,1999,1999,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4143592,,,,4143592,,3262343,,,0
+H1,1999,1999,1999,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17627,,,,17627,,45040,,,0
+H1,1999,1999,1999,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,43380039,,,,43380039,,15904887,,,0
+H1,1999,1999,1999,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32039357,,,,32039357,,12468466,,,0
+H1,1999,1999,1999,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28535615,,,,28535615,,15030000,,,0
+H1,1999,1999,1999,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2888866,,,,2888866,,2146000,,,0
+H1,1999,1999,1999,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5704,,,,5704,,46887,,,0
+H1,1999,1999,1999,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,305625,,,,305625,,71061,,,0
+H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,376493,,,,376493,,1351743,,,0
+H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,487235,,,,487235,,1120522,,,0
+H1,1999,1999,1999,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52465,,,,52465,,754521,,,0
+H1,1999,1999,1999,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1183456,,,,1183456,,6534218,,,0
+H1,1999,1999,1999,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,1351000,,,0
+H1,1999,1999,1999,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,30000,,,0
+H1,1999,1999,1999,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45171584,,,,45171584,,23127820,,,0
+H1,1999,1999,1999,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,61982879,,,,61982879,,52683977,,,0
+H1,1999,1999,1999,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,116708,,,,116708,,1658585,,,0
+H1,1999,1999,1999,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,171,,,,171,,1072,,,0
+H1,1999,1999,1999,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3760877,,,,3760877,,46855916,,,0
+H1,1999,1999,1999,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,69706503,,,,69706503,,43084314,,,0
+H1,1999,1999,1999,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11045393,,,,11045393,,11416378,,,0
+H1,1999,1999,1999,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,386791,,,,386791,,620514,,,0
+H1,1999,1999,1999,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50198856,,,,50198856,,31813871,,,0
+H1,1999,1999,1999,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,147373,,,,147373,,515129,,,0
+H1,1999,1999,1999,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6666354,,,,6666354,,4557905,,,0
+H1,1999,1999,1999,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,128190737,,,,128190737,,61334574,,,0
+H1,1999,1999,1999,4,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10023854,,,,10023854,,14099220,,,0
+H1,1999,1999,1999,4,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2011393,,,,2011393,,3575391,,,0
+H1,1999,1999,1999,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5463669,,,,5463669,,4703679,,,0
+H1,1999,1999,1999,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21253,,,,21253,,18093,,,0
+H1,1999,1999,1999,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29167284,,,,29167284,,14025915,,,0
+H1,1999,1999,1999,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3114173,,,,3114173,,2860755,,,0
+H1,1999,1999,1999,4,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1220,,,,1220,,48528,,,0
+H1,1999,1999,1999,4,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13272,,,,13272,,10551,,,0
+H1,1999,1999,1999,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,726732,,,,726732,,909084,,,0
+H1,1999,1999,1999,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,33,,,,33,,299,,,0
+H1,1999,1999,1999,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5836779,,,,5836779,,6249603,,,0
+H1,1999,1999,1999,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36612,,,,36612,,73083,,,0
+H1,1999,1999,1999,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,94660798,,,,94660798,,72075911,,,0
+H1,1999,1999,1999,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,26742691,,,,26742691,,16779072,,,0
+H1,1999,1999,1999,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3593612,,,,3593612,,2898394,,,0
+H1,1999,1999,1999,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5267,,,,5267,,5739,,,0
+H1,1999,1999,1999,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,96724,,,,96724,,97368,,,0
+H1,1999,1999,1999,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,772,,,,772,,1910,,,0
+H1,1999,1999,1999,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11187,,,,11187,,9210,,,0
+H1,1999,1999,1999,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10025734,,,,10025734,,4471063,,,0
+H1,1999,1999,1999,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8723590,,,,8723590,,17751548,,,0
+H1,1999,1999,1999,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1273531,,,,1273531,,1378049,,,0
+H1,1999,1999,1999,4,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,160,,,,160,,4472,,,0
+H1,1999,1999,1999,4,0,1,Import,500,Montserrat,MSR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3025,,,0
+H1,1999,1999,1999,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,7272,,,0
+H1,1999,1999,1999,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,73950504,,,,73950504,,24366290,,,0
+H1,1999,1999,1999,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,87013004,,,,87013004,,82790017,,,0
+H1,1999,1999,1999,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11159,,,,11159,,102243,,,0
+H1,1999,1999,1999,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,171055,,,,171055,,312313,,,0
+H1,1999,1999,1999,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4547751,,,,4547751,,6474811,,,0
+H1,1999,1999,1999,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11995224,,,,11995224,,9504484,,,0
+H1,1999,1999,1999,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11130476,,,,11130476,,8281983,,,0
+H1,1999,1999,1999,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9356,,,,9356,,19793,,,0
+H1,1999,1999,1999,4,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8221,,,,8221,,9023,,,0
+H1,1999,1999,1999,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,70693,,,,70693,,91745,,,0
+H1,1999,1999,1999,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8017429,,,,8017429,,3178093,,,0
+H1,1999,1999,1999,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,349038,,,,349038,,354617,,,0
+H1,1999,1999,1999,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,128458,,,,128458,,338535,,,0
+H1,1999,1999,1999,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1154078,,,,1154078,,1708381,,,0
+H1,1999,1999,1999,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,27,,,,27,,731,,,0
+H1,1999,1999,1999,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,73671368,,,,73671368,,35807000,,,0
+H1,1999,1999,1999,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9930152,,,,9930152,,11715000,,,0
+H1,1999,1999,1999,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50885,,,,50885,,250014,,,0
+H1,1999,1999,1999,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,659670,,,,659670,,365314,,,0
+H1,1999,1999,1999,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,57099000,,,,57099000,,28646000,,,0
+H1,1999,1999,1999,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,127000,,,,127000,,50000,,,0
+H1,1999,1999,1999,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16057263,,,,16057263,,9182098,,,0
+H1,1999,1999,1999,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,127198,,,,127198,,79074,,,0
+H1,1999,1999,1999,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3585,,,,3585,,8596,,,0
+H1,1999,1999,1999,4,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1510,,,,1510,,6758,,,0
+H1,1999,1999,1999,4,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,59227,,,,59227,,43849,,,0
+H1,1999,1999,1999,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3242363,,,,3242363,,3891905,,,0
+H1,1999,1999,1999,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18414913,,,,18414913,,23711916,,,0
+H1,1999,1999,1999,4,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7843695,,,,7843695,,6353561,,,0
+H1,1999,1999,1999,4,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,164402,,,,164402,,148790,,,0
+H1,1999,1999,1999,4,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6,,,,6,,280,,,0
+H1,1999,1999,1999,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18982115,,,,18982115,,8374738,,,0
+H1,1999,1999,1999,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,46584,,,,46584,,302551,,,0
+H1,1999,1999,1999,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80190185,,,,80190185,,47695139,,,0
+H1,1999,1999,1999,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52587922,,,,52587922,,41667415,,,0
+H1,1999,1999,1999,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6547146,,,,6547146,,8438749,,,0
+H1,1999,1999,1999,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,705205,,,,705205,,4636323,,,0
+H1,1999,1999,1999,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,144425,,,,144425,,1094273,,,0
+H1,1999,1999,1999,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,106561,,,,106561,,1102534,,,0
+H1,1999,1999,1999,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11423510,,,,11423510,,4165504,,,0
+H1,1999,1999,1999,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,418716,,,,418716,,323855,,,0
+H1,1999,1999,1999,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9897636,,,,9897636,,7512906,,,0
+H1,1999,1999,1999,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1309659,,,,1309659,,748423,,,0
+H1,1999,1999,1999,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1629894,,,,1629894,,638490,,,0
+H1,1999,1999,1999,4,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,82,,,,82,,1412,,,0
+H1,1999,1999,1999,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1243234,,,,1243234,,889108,,,0
+H1,1999,1999,1999,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28825099,,,,28825099,,9913696,,,0
+H1,1999,1999,1999,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,830229,,,,830229,,576854,,,0
+H1,1999,1999,1999,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,26513608,,,,26513608,,17307048,,,0
+H1,1999,1999,1999,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,220043,,,,220043,,528627,,,0
+H1,1999,1999,1999,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,159965,,,,159965,,202896,,,0
+H1,1999,1999,1999,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10088722,,,,10088722,,6689039,,,0
+H1,1999,1999,1999,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11921887,,,,11921887,,8345387,,,0
+H1,1999,1999,1999,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,332569,,,,332569,,461383,,,0
+H1,1999,1999,1999,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,371,,,0
+H1,1999,1999,1999,4,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,819161,,,0
+H1,1999,1999,1999,4,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,618523,,,0
+H1,1999,1999,1999,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3639,,,,3639,,15156,,,0
+H1,1999,1999,1999,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10618,,,,10618,,53688,,,0
+H1,1999,1999,1999,4,0,1,Import,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,21688,,,0
+H1,1999,1999,1999,4,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,121832,,,0
+H1,1999,1999,1999,4,0,1,Import,798,Tuvalu,TUV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,3045,,,0
+H1,1999,1999,1999,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19033623,,,,19033623,,20569552,,,0
+H1,1999,1999,1999,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,340550,,,,340550,,1413297,,,0
+H1,1999,1999,1999,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75869,,,,75869,,40902,,,0
+H1,1999,1999,1999,4,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15437,,,,15437,,28710,,,0
+H1,1999,1999,1999,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9324052,,,,9324052,,8588884,,,0
+H1,1999,1999,1999,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,82737306,,,,82737306,,97281154,,,0
+H1,1999,1999,1999,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36302604,,,,36302604,,26681588,,,0
+H1,1999,1999,1999,4,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1040532,,,,1040532,,1614806,,,0
+H1,1999,1999,1999,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8338730,,,,8338730,,7915171,,,0
+H1,1999,1999,1999,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,220372336,,,,220372336,,218814132,,,0
+H1,1999,1999,1999,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6780,,,,6780,,15414,,,0
+H1,1999,1999,1999,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5489,,,,5489,,9508,,,0
+H1,1999,1999,1999,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7388835,,,,7388835,,20224956,,,0
+H1,1999,1999,1999,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9684657,,,,9684657,,32390616,,,0
+H0,1995,1995,1995,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2314666,,,,2314666,,2486359,,,0
+H0,1995,1995,1995,4,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,38,,,,38,,2074,,,0
+H0,1995,1995,1995,4,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2937,,,,2937,,698,,,0
+H0,1995,1995,1995,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,205,,,,205,,4394,,,0
+H0,1995,1995,1995,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20,,,,20,,69,,,0
+H0,1995,1995,1995,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,4005328,,,0
+H0,1995,1995,1995,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14401226,,,,14401226,,19181419,,,0
+H0,1995,1995,1995,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,79174,,,,79174,,282929,,,0
+H0,1995,1995,1995,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13474500,,,,13474500,,5015687,,,0
+H0,1995,1995,1995,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6796689,,,,6796689,,2401341,,,0
+H0,1995,1995,1995,4,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,38370768,,,,38370768,,29728768,,,0
+H0,1995,1995,1995,4,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75013968,,,,75013968,,96117096,,,0
+H0,1995,1995,1995,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3562067,,,,3562067,,2866240,,,0
+H0,1995,1995,1995,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,60,,,,60,,11361,,,0
+H0,1995,1995,1995,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1388398,,,,1388398,,1334751,,,0
+H0,1995,1995,1995,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2075,,,,2075,,40000,,,0
+H0,1995,1995,1995,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,246358,,,,246358,,197001,,,0
+H0,1995,1995,1995,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4381224,,,,4381224,,3131789,,,0
+H0,1995,1995,1995,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15829766,,,,15829766,,20735074,,,0
+H0,1995,1995,1995,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11472,,,,11472,,3265,,,0
+H0,1995,1995,1995,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21769488,,,,21769488,,7771366,,,0
+H0,1995,1995,1995,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,39175448,,,0
+H0,1995,1995,1995,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1483535,,,,1483535,,1885846,,,0
+H0,1995,1995,1995,4,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,33490,,,,33490,,41889,,,0
+H0,1995,1995,1995,4,0,1,Import,148,Chad,TCD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,221202,,,,221202,,419230,,,0
+H0,1995,1995,1995,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16983484,,,,16983484,,22259064,,,0
+H0,1995,1995,1995,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22072,,,,22072,,31676,,,0
+H0,1995,1995,1995,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,858162,,,,858162,,1542718,,,0
+H0,1995,1995,1995,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,847187,,,,847187,,1620665,,,0
+H0,1995,1995,1995,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,330,,,,330,,1073,,,0
+H0,1995,1995,1995,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1145,,,,1145,,31607,,,0
+H0,1995,1995,1995,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,86884,,,,86884,,87593,,,0
+H0,1995,1995,1995,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1911079,,,,1911079,,3700612,,,0
+H0,1995,1995,1995,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2447458,,,,2447458,,2055143,,,0
+H0,1995,1995,1995,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21894,,,,21894,,12210,,,0
+H0,1995,1995,1995,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10000,,,,10000,,10111,,,0
+H0,1995,1995,1995,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,392000,,,,392000,,110716,,,0
+H0,1995,1995,1995,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,2708,,,0
+H0,1995,1995,1995,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,11073,,,0
+H0,1995,1995,1995,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24259252,,,,24259252,,16396726,,,0
+H0,1995,1995,1995,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9016344,,,,9016344,,5236165,,,0
+H0,1995,1995,1995,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55044,,,,55044,,492602,,,0
+H0,1995,1995,1995,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9906166,,,,9906166,,5923956,,,0
+H0,1995,1995,1995,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19170,,,,19170,,61904,,,0
+H0,1995,1995,1995,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5355,,,,5355,,7653,,,0
+H0,1995,1995,1995,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2875404,,,,2875404,,3513327,,,0
+H0,1995,1995,1995,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1937,,,,1937,,6707,,,0
+H0,1995,1995,1995,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17257,,,,17257,,94671,,,0
+H0,1995,1995,1995,4,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3993893,,,,3993893,,2308441,,,0
+H0,1995,1995,1995,4,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,321371,,,,321371,,142399,,,0
+H0,1995,1995,1995,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,134575,,,,134575,,201363,,,0
+H0,1995,1995,1995,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1008352,,,,1008352,,2844415,,,0
+H0,1995,1995,1995,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19084930,,,,19084930,,29806856,,,0
+H0,1995,1995,1995,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31200280,,,,31200280,,37296988,,,0
+H0,1995,1995,1995,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2468,,,,2468,,18852,,,0
+H0,1995,1995,1995,4,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2772091,,,,2772091,,788571,,,0
+H0,1995,1995,1995,4,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18585,,,,18585,,60189,,,0
+H0,1995,1995,1995,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8548988,,,,8548988,,15058000,,,0
+H0,1995,1995,1995,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,204727024,,,,204727024,,161396992,,,0
+H0,1995,1995,1995,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,1143,,,,0,,120941,,,0
+H0,1995,1995,1995,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,254429,,,,254429,,1412396,,,0
+H0,1995,1995,1995,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,273939,,,,273939,,220825,,,0
+H0,1995,1995,1995,4,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,54,,,,54,,730,,,0
+H0,1995,1995,1995,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,89,,,,89,,186,,,0
+H0,1995,1995,1995,4,0,1,Import,312,Guadeloupe,GLP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13625,,,,13625,,47794,,,0
+H0,1995,1995,1995,4,0,2,Export,312,Guadeloupe,GLP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13125,,,,13125,,18719,,,0
+H0,1995,1995,1995,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7273217,,,,7273217,,6905016,,,0
+H0,1995,1995,1995,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21,,,,21,,287,,,0
+H0,1995,1995,1995,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8151282,,,,8151282,,7366348,,,0
+H0,1995,1995,1995,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,173534,,,,173534,,158843,,,0
+H0,1995,1995,1995,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1502715,,,,1502715,,2139260,,,0
+H0,1995,1995,1995,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,25499,,,,25499,,228708,,,0
+H0,1995,1995,1995,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52407143,,,,52407143,,45313209,,,0
+H0,1995,1995,1995,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7125809,,,,7125809,,7135070,,,0
+H0,1995,1995,1995,4,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21417788,,,,21417788,,14149000,,,0
+H0,1995,1995,1995,4,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1511247,,,,1511247,,958000,,,0
+H0,1995,1995,1995,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8263,,,,8263,,142661,,,0
+H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5579556,,,,5579556,,15988726,,,0
+H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,51101,,,,51101,,141220,,,0
+H0,1995,1995,1995,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,359240,,,,359240,,499920,,,0
+H0,1995,1995,1995,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3588230,,,,3588230,,4056837,,,0
+H0,1995,1995,1995,4,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,414000,,,0
+H0,1995,1995,1995,4,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,24000,,,0
+H0,1995,1995,1995,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,37301616,,,,37301616,,30554640,,,0
+H0,1995,1995,1995,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52273544,,,,52273544,,48243012,,,0
+H0,1995,1995,1995,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3033364,,,,3033364,,3832414,,,0
+H0,1995,1995,1995,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2125,,,,2125,,1356,,,0
+H0,1995,1995,1995,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5376699,,,,5376699,,117862790,,,0
+H0,1995,1995,1995,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50164916,,,,50164916,,44465438,,,0
+H0,1995,1995,1995,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,668758,,,,668758,,196795,,,0
+H0,1995,1995,1995,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,44800,,,,44800,,7500,,,0
+H0,1995,1995,1995,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10479845,,,,10479845,,13573543,,,0
+H0,1995,1995,1995,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,84464,,,,84464,,118317,,,0
+H0,1995,1995,1995,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1389743,,,,1389743,,1533535,,,0
+H0,1995,1995,1995,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,23999460,,,,23999460,,12497089,,,0
+H0,1995,1995,1995,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,506796,,,0
+H0,1995,1995,1995,4,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,2000,,,0
+H0,1995,1995,1995,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2926093,,,,2926093,,1310933,,,0
+H0,1995,1995,1995,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,116887,,,,116887,,71027,,,0
+H0,1995,1995,1995,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15609059,,,,15609059,,5751092,,,0
+H0,1995,1995,1995,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2310999,,,,2310999,,821790,,,0
+H0,1995,1995,1995,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1796,,,,1796,,29699,,,0
+H0,1995,1995,1995,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1943800,,,,1943800,,2069760,,,0
+H0,1995,1995,1995,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6,,,,6,,5,,,0
+H0,1995,1995,1995,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1079191,,,,1079191,,1232822,,,0
+H0,1995,1995,1995,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,224326,,,,224326,,708265,,,0
+H0,1995,1995,1995,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35880053,,,,35880053,,35623562,,,0
+H0,1995,1995,1995,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11190683,,,,11190683,,14824028,,,0
+H0,1995,1995,1995,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,382,,,,382,,2882,,,0
+H0,1995,1995,1995,4,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1043,,,,1043,,3439,,,0
+H0,1995,1995,1995,4,0,1,Import,474,Martinique,MTQ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,945,,,,945,,18521,,,0
+H0,1995,1995,1995,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4345,,,,4345,,7453,,,0
+H0,1995,1995,1995,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8066,,,,8066,,10257,,,0
+H0,1995,1995,1995,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13927496,,,,13927496,,17045000,,,0
+H0,1995,1995,1995,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6134334,,,,6134334,,28092000,,,0
+H0,1995,1995,1995,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,720958,,,,720958,,103812,,,0
+H0,1995,1995,1995,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,128,,,,128,,586,,,0
+H0,1995,1995,1995,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,7021000,,,0
+H0,1995,1995,1995,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,11000,,,0
+H0,1995,1995,1995,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1125,,,,1125,,20431,,,0
+H0,1995,1995,1995,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,861,,,,861,,867,,,0
+H0,1995,1995,1995,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,37178432,,,,37178432,,20297272,,,0
+H0,1995,1995,1995,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,81452560,,,,81452560,,102875208,,,0
+H0,1995,1995,1995,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7775,,,,7775,,143524,,,0
+H0,1995,1995,1995,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,110318,,,,110318,,139241,,,0
+H0,1995,1995,1995,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2228923,,,,2228923,,2853112,,,0
+H0,1995,1995,1995,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1812,,,,1812,,3490,,,0
+H0,1995,1995,1995,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1998474,,,,1998474,,1386032,,,0
+H0,1995,1995,1995,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7668642,,,,7668642,,4675394,,,0
+H0,1995,1995,1995,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52605,,,,52605,,214396,,,0
+H0,1995,1995,1995,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3939211,,,,3939211,,2376385,,,0
+H0,1995,1995,1995,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,159368,,,,159368,,192665,,,0
+H0,1995,1995,1995,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1439450,,,,1439450,,2498866,,,0
+H0,1995,1995,1995,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5404,,,,5404,,14016,,,0
+H0,1995,1995,1995,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,93,,,,93,,483,,,0
+H0,1995,1995,1995,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,64948636,,,,64948636,,26471000,,,0
+H0,1995,1995,1995,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6773454,,,,6773454,,6996000,,,0
+H0,1995,1995,1995,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,79009,,,,79009,,411202,,,0
+H0,1995,1995,1995,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,291467,,,,291467,,484564,,,0
+H0,1995,1995,1995,4,0,1,Import,638,Réunion,REU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,96246,,,,96246,,516096,,,0
+H0,1995,1995,1995,4,0,2,Export,638,Réunion,REU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9125,,,,9125,,10753,,,0
+H0,1995,1995,1995,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16130937,,,,16130937,,8401000,,,0
+H0,1995,1995,1995,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9000,,,,9000,,12000,,,0
+H0,1995,1995,1995,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14518,,,,14518,,38484,,,0
+H0,1995,1995,1995,4,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2861,,,,2861,,23255,,,0
+H0,1995,1995,1995,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,415259,,,,415259,,133011,,,0
+H0,1995,1995,1995,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,808,,,,808,,8263,,,0
+H0,1995,1995,1995,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2337966,,,,2337966,,2841738,,,0
+H0,1995,1995,1995,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31420590,,,,31420590,,34369328,,,0
+H0,1995,1995,1995,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,47,,,,47,,3190,,,0
+H0,1995,1995,1995,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1478455,,,,1478455,,1160740,,,0
+H0,1995,1995,1995,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3525,,,,3525,,35071,,,0
+H0,1995,1995,1995,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,56515364,,,,56515364,,53998280,,,0
+H0,1995,1995,1995,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52044896,,,,52044896,,63733144,,,0
+H0,1995,1995,1995,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5480522,,,,5480522,,4137781,,,0
+H0,1995,1995,1995,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,663764,,,,663764,,469956,,,0
+H0,1995,1995,1995,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5056,,,,5056,,23953,,,0
+H0,1995,1995,1995,4,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5183,,,,5183,,6624,,,0
+H0,1995,1995,1995,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7321024,,,,7321024,,4104503,,,0
+H0,1995,1995,1995,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,344431,,,0
+H0,1995,1995,1995,4,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,457072,,,,457072,,393001,,,0
+H0,1995,1995,1995,4,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,534715,,,,534715,,3456729,,,0
+H0,1995,1995,1995,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10541038,,,,10541038,,8902260,,,0
+H0,1995,1995,1995,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,709432,,,,709432,,571760,,,0
+H0,1995,1995,1995,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,224631712,,,,224631712,,5815126,,,0
+H0,1995,1995,1995,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19639,,,,19639,,19960,,,0
+H0,1995,1995,1995,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,293888,,,,293888,,651074,,,0
+H0,1995,1995,1995,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12147408,,,,12147408,,7286859,,,0
+H0,1995,1995,1995,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1429284,,,,1429284,,726500,,,0
+H0,1995,1995,1995,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,18738012,,,,18738012,,14878735,,,0
+H0,1995,1995,1995,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,331330,,,,331330,,1166194,,,0
+H0,1995,1995,1995,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5723,,,,5723,,15609,,,0
+H0,1995,1995,1995,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10174673,,,,10174673,,7306605,,,0
+H0,1995,1995,1995,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3202160,,,,3202160,,2596022,,,0
+H0,1995,1995,1995,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,106522,,,,106522,,291911,,,0
+H0,1995,1995,1995,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2080,,,,2080,,2734,,,0
+H0,1995,1995,1995,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,43496428,,,,43496428,,37676128,,,0
+H0,1995,1995,1995,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3461592,,,,3461592,,5230181,,,0
+H0,1995,1995,1995,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,909,,,,909,,7110,,,0
+H0,1995,1995,1995,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16448,,,,16448,,36035,,,0
+H0,1995,1995,1995,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,22318310,,,,22318310,,24584332,,,0
+H0,1995,1995,1995,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,864014,,,,864014,,1001599,,,0
+H0,1995,1995,1995,4,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29841,,,,29841,,37034,,,0
+H0,1995,1995,1995,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31652,,,,31652,,18911,,,0
+H0,1995,1995,1995,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3937,,,,3937,,9114,,,0
+H0,1995,1995,1995,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8068894,,,,8068894,,12972151,,,0
+H0,1995,1995,1995,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,76763336,,,,76763336,,76275584,,,0
+H0,1995,1995,1995,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8476778,,,,8476778,,9575722,,,0
+H0,1995,1995,1995,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6061279,,,,6061279,,6070954,,,0
+H0,1995,1995,1995,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,229618032,,,,229618032,,235332416,,,0
+H0,1995,1995,1995,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4566440,,,,4566440,,4566355,,,0
+H0,1995,1995,1995,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55987,,,,55987,,31338,,,0
+H0,1995,1995,1995,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,16000,,,0
+H0,1995,1995,1995,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9104,,,,9104,,35009,,,0
+H0,1995,1995,1995,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,3692549,,,,0,,4548262,,,0
+H0,1995,1995,1995,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,16562,,,,0,,18571,,,0
+H0,1996,1996,1996,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,23198,,,,23198,,7227,,,0
+H0,1996,1996,1996,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7401049,,,,7401049,,2596835,,,0
+H0,1996,1996,1996,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2766669,,,,2766669,,2224111,,,0
+H0,1996,1996,1996,4,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,910,,,,910,,829,,,0
+H0,1996,1996,1996,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1949439,,,,1949439,,1640759,,,0
+H0,1996,1996,1996,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8786,,,,8786,,115058,,,0
+H0,1996,1996,1996,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,281190,,,,281190,,228865,,,0
+H0,1996,1996,1996,4,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6937,,,,6937,,6362,,,0
+H0,1996,1996,1996,4,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,334483,,,0
+H0,1996,1996,1996,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1632035,,,,1632035,,1144156,,,0
+H0,1996,1996,1996,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20058758,,,,20058758,,23785048,,,0
+H0,1996,1996,1996,4,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12312,,,,12312,,5863,,,0
+H0,1996,1996,1996,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1407061,,,,1407061,,1613341,,,0
+H0,1996,1996,1996,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,16085202,,,,16085202,,21679006,,,0
+H0,1996,1996,1996,4,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28491,,,,28491,,38368,,,0
+H0,1996,1996,1996,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,157955,,,,157955,,228317,,,0
+H0,1996,1996,1996,4,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,601,,,,601,,1575,,,0
+H0,1996,1996,1996,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36343232,,,,36343232,,3298313,,,0
+H0,1996,1996,1996,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2604,,,,2604,,28055,,,0
+H0,1996,1996,1996,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,153226,,,,153226,,57948,,,0
+H0,1996,1996,1996,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,88000,,,,88000,,25922,,,0
+H0,1996,1996,1996,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19782,,,,19782,,62718,,,0
+H0,1996,1996,1996,4,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,136,,,,136,,1202,,,0
+H0,1996,1996,1996,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2300395,,,,2300395,,3266361,,,0
+H0,1996,1996,1996,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3311792,,,,3311792,,4227934,,,0
+H0,1996,1996,1996,4,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,67454,,,,67454,,248895,,,0
+H0,1996,1996,1996,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,435366,,,,435366,,216587,,,0
+H0,1996,1996,1996,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29803416,,,,29803416,,21591760,,,0
+H0,1996,1996,1996,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1630107,,,,1630107,,1165561,,,0
+H0,1996,1996,1996,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,2147,,,,0,,157616,,,0
+H0,1996,1996,1996,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4,,,,4,,9,,,0
+H0,1996,1996,1996,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7714908,,,,7714908,,7432920,,,0
+H0,1996,1996,1996,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13468,,,,13468,,27143,,,0
+H0,1996,1996,1996,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6175382,,,,6175382,,5714839,,,0
+H0,1996,1996,1996,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,264221,,,,264221,,58479,,,0
+H0,1996,1996,1996,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1788840,,,,1788840,,892484,,,0
+H0,1996,1996,1996,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10812,,,,10812,,1189004,,,0
+H0,1996,1996,1996,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9995,,,,9995,,157324,,,0
+H0,1996,1996,1996,4,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19300,,,,19300,,6753,,,0
+H0,1996,1996,1996,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4350314,,,,4350314,,4651159,,,0
+H0,1996,1996,1996,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,218475,,,,218475,,499833,,,0
+H0,1996,1996,1996,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,125,,,,125,,288,,,0
+H0,1996,1996,1996,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1355448,,,,1355448,,586595,,,0
+H0,1996,1996,1996,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,107698,,,,107698,,48198,,,0
+H0,1996,1996,1996,4,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,975295,,,0
+H0,1996,1996,1996,4,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,192297,,,0
+H0,1996,1996,1996,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5617870,,,,5617870,,3314795,,,0
+H0,1996,1996,1996,4,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,251716,,,,251716,,116758,,,0
+H0,1996,1996,1996,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29910054,,,,29910054,,10009883,,,0
+H0,1996,1996,1996,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3738777,,,,3738777,,1161992,,,0
+H0,1996,1996,1996,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24877,,,,24877,,98821,,,0
+H0,1996,1996,1996,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,51186680,,,,51186680,,45124442,,,0
+H0,1996,1996,1996,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12767597,,,,12767597,,14912545,,,0
+H0,1996,1996,1996,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4715324,,,,4715324,,3488675,,,0
+H0,1996,1996,1996,4,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,61500,,,,61500,,1466,,,0
+H0,1996,1996,1996,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4006,,,,4006,,225919,,,0
+H0,1996,1996,1996,4,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,74,,,,74,,193,,,0
+H0,1996,1996,1996,4,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,376042,,,,376042,,1396385,,,0
+H0,1996,1996,1996,4,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4,,,,4,,45,,,0
+H0,1996,1996,1996,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2658690,,,,2658690,,2287889,,,0
+H0,1996,1996,1996,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1312,,,,1312,,1851,,,0
+H0,1996,1996,1996,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,78,,,,78,,83,,,0
+H0,1996,1996,1996,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50,,,,50,,544,,,0
+H0,1996,1996,1996,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,6785000,,,0
+H0,1996,1996,1996,4,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,89000,,,0
+H0,1996,1996,1996,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,796,,,,796,,1170,,,0
+H0,1996,1996,1996,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1859030,,,,1859030,,2692991,,,0
+H0,1996,1996,1996,4,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4,,,,4,,109,,,0
+H0,1996,1996,1996,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5896428,,,,5896428,,5070921,,,0
+H0,1996,1996,1996,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14290154,,,,14290154,,9815960,,,0
+H0,1996,1996,1996,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,76674,,,,76674,,32801,,,0
+H0,1996,1996,1996,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,170810,,,,170810,,132142,,,0
+H0,1996,1996,1996,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1941916,,,,1941916,,2957654,,,0
+H0,1996,1996,1996,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,556021,,,,556021,,451669,,,0
+H0,1996,1996,1996,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,49,,,,49,,278,,,0
+H0,1996,1996,1996,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4845284,,,,4845284,,1882460,,,0
+H0,1996,1996,1996,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4913513,,,,4913513,,3052049,,,0
+H0,1996,1996,1996,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,19226876,,,,19226876,,9729000,,,0
+H0,1996,1996,1996,4,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,45000,,,,45000,,71000,,,0
+H0,1996,1996,1996,4,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15178916,,,,15178916,,6761624,,,0
+H0,1996,1996,1996,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,68426,,,,68426,,88540,,,0
+H0,1996,1996,1996,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6638656,,,,6638656,,4923465,,,0
+H0,1996,1996,1996,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17510,,,,17510,,44926,,,0
+H0,1996,1996,1996,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14684,,,,14684,,44474,,,0
+H0,1996,1996,1996,4,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9572,,,,9572,,14463,,,0
+H0,1996,1996,1996,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,30744,,,,30744,,206919,,,0
+H0,1996,1996,1996,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,137,,,,137,,1869,,,0
+H0,1996,1996,1996,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2914055,,,,2914055,,3388003,,,0
+H0,1996,1996,1996,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28234686,,,,28234686,,38678820,,,0
+H0,1996,1996,1996,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,64,,,,64,,600,,,0
+H0,1996,1996,1996,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,64288849,,,,64288849,,53166668,,,0
+H0,1996,1996,1996,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,51059378,,,,51059378,,54422457,,,0
+H0,1996,1996,1996,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7002382,,,,7002382,,6608600,,,0
+H0,1996,1996,1996,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1666123,,,,1666123,,1059123,,,0
+H0,1996,1996,1996,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9653380,,,,9653380,,4398326,,,0
+H0,1996,1996,1996,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,217274,,,0
+H0,1996,1996,1996,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1788842,,,,1788842,,641353,,,0
+H0,1996,1996,1996,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,148121,,,,148121,,186983,,,0
+H0,1996,1996,1996,4,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,73318,,,,73318,,76788,,,0
+H0,1996,1996,1996,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,397077,,,,397077,,1118017,,,0
+H0,1996,1996,1996,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32884,,,,32884,,64496,,,0
+H0,1996,1996,1996,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10629651,,,,10629651,,9525616,,,0
+H0,1996,1996,1996,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7094614,,,,7094614,,5473277,,,0
+H0,1996,1996,1996,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,105267,,,,105267,,382400,,,0
+H0,1996,1996,1996,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,776,,,,776,,4501,,,0
+H0,1996,1996,1996,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,49763228,,,,49763228,,46993448,,,0
+H0,1996,1996,1996,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8575206,,,,8575206,,12187230,,,0
+H0,1996,1996,1996,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6003634,,,,6003634,,2172508,,,0
+H0,1996,1996,1996,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50,,,,50,,59,,,0
+H0,1996,1996,1996,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,113348,,,,113348,,106660,,,0
+H0,1996,1996,1996,4,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,27335352,,,,27335352,,32571386,,,0
+H0,1996,1996,1996,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3578341,,,,3578341,,3346406,,,0
+H0,1996,1996,1996,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10,,,,10,,19,,,0
+H0,1996,1996,1996,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,109,,,,109,,1358,,,0
+H0,1996,1996,1996,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,312851,,,,312851,,366000,,,0
+H0,1996,1996,1996,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,97000,,,,97000,,54000,,,0
+H0,1996,1996,1996,4,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,8904389,,,0
+H0,1996,1996,1996,4,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,122229,,,0
+H0,1997,1997,1997,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52084,,,,52084,,25506,,,0
+H0,1997,1997,1997,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,9202787,,,,9202787,,6463426,,,0
+H0,1997,1997,1997,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3766,,,,3766,,3854,,,0
+H0,1997,1997,1997,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,207,,,,207,,568,,,0
+H0,1997,1997,1997,4,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,380943,,,,380943,,355009,,,0
+H0,1997,1997,1997,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,448046,,,,448046,,55850,,,0
+H0,1997,1997,1997,4,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,796,,,,796,,548,,,0
+H0,1997,1997,1997,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1061492,,,,1061492,,1001299,,,0
+H0,1997,1997,1997,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,23190376,,,,23190376,,22543252,,,0
+H0,1997,1997,1997,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,114458,,,,114458,,144536,,,0
+H0,1997,1997,1997,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,28675,,,,28675,,102002,,,0
+H0,1997,1997,1997,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1065,,,,1065,,3072,,,0
+H0,1997,1997,1997,4,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2429197,,,,2429197,,1887118,,,0
+H0,1997,1997,1997,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36642312,,,,36642312,,23918332,,,0
+H0,1997,1997,1997,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1550746,,,,1550746,,1524475,,,0
+H0,1997,1997,1997,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,527,,,,0,,113487,,,0
+H0,1997,1997,1997,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,49,,,,49,,381,,,0
+H0,1997,1997,1997,4,0,1,Import,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7810040,,,,7810040,,6465176,,,0
+H0,1997,1997,1997,4,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17375,,,,17375,,13986,,,0
+H0,1997,1997,1997,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4275031,,,,4275031,,3167547,,,0
+H0,1997,1997,1997,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,32612,,,,32612,,18135,,,0
+H0,1997,1997,1997,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,161035,,,,161035,,648378,,,0
+H0,1997,1997,1997,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,488,,,,488,,2382,,,0
+H0,1997,1997,1997,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1817908,,,,1817908,,679290,,,0
+H0,1997,1997,1997,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,220116,,,,220116,,23998,,,0
+H0,1997,1997,1997,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12898034,,,,12898034,,15516290,,,0
+H0,1997,1997,1997,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,185627,,,,185627,,304574,,,0
+H0,1997,1997,1997,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,34075,,,,0,,65230,,,0
+H0,1997,1997,1997,4,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3451141,,,,3451141,,2336060,,,0
+H0,1997,1997,1997,4,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,75000,,,,75000,,1283,,,0
+H0,1997,1997,1997,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,294153,,,,294153,,335464,,,0
+H0,1997,1997,1997,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,31025486,,,,31025486,,6042218,,,0
+H0,1997,1997,1997,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,4390797,,,0
+H0,1997,1997,1997,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,13104334,,,0
+H0,1997,1997,1997,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,125,,,,125,,4194,,,0
+H0,1997,1997,1997,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2414,,,,2414,,1040,,,0
+H0,1997,1997,1997,4,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12745504,,,,12745504,,10767414,,,0
+H0,1997,1997,1997,4,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,15291719,,,,15291719,,11775447,,,0
+H0,1997,1997,1997,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,29269,,,,29269,,34180,,,0
+H0,1997,1997,1997,4,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,396312,,,,396312,,176499,,,0
+H0,1997,1997,1997,4,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1373955,,,,1373955,,2811043,,,0
+H0,1997,1997,1997,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1200014,,,,1200014,,1099587,,,0
+H0,1997,1997,1997,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,80,,,,80,,997,,,0
+H0,1997,1997,1997,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4652936,,,,4652936,,1711150,,,0
+H0,1997,1997,1997,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3416645,,,,3416645,,1757756,,,0
+H0,1997,1997,1997,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10821516,,,,10821516,,7190236,,,0
+H0,1997,1997,1997,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2250,,,,2250,,2755,,,0
+H0,1997,1997,1997,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5596,,,,5596,,8118,,,0
+H0,1997,1997,1997,4,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,64,,,,64,,3454,,,0
+H0,1997,1997,1997,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,59947,,,,59947,,271706,,,0
+H0,1997,1997,1997,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,69,,,,69,,573,,,0
+H0,1997,1997,1997,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4898,,,,4898,,22382,,,0
+H0,1997,1997,1997,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3377595,,,,3377595,,10044738,,,0
+H0,1997,1997,1997,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,836432,,,,836432,,1447110,,,0
+H0,1997,1997,1997,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5356,,,,5356,,61598,,,0
+H0,1997,1997,1997,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10955512,,,,10955512,,8591390,,,0
+H0,1997,1997,1997,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5711018,,,,5711018,,3885600,,,0
+H0,1997,1997,1997,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,87710,,,,87710,,816368,,,0
+H0,1997,1997,1997,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,44491908,,,,44491908,,36380576,,,0
+H0,1997,1997,1997,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10488748,,,,10488748,,11783177,,,0
+H0,1997,1997,1997,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17331800,,,,17331800,,6565029,,,0
+H0,1997,1997,1997,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,36812,,,,36812,,9700,,,0
+H0,1997,1997,1997,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,48847,,,,48847,,49060,,,0
+H0,1997,1997,1997,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6000,,,,6000,,16937,,,0
+H0,1997,1997,1997,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5469190,,,,5469190,,3363295,,,0
+H0,1997,1997,1997,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,163499,,,,163499,,21382,,,0
+H0,1997,1997,1997,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1263000,,,,1263000,,2296000,,,0
+H0,1997,1997,1997,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7000,,,,7000,,5000,,,0
+H0,1998,1998,1998,4,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,153289,,,,153289,,782432,,,0
+H0,1998,1998,1998,4,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,55540,,,,55540,,908446,,,0
+H0,1998,1998,1998,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7821378,,,,7821378,,5423439,,,0
+H0,1998,1998,1998,4,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5618,,,,5618,,4334,,,0
+H0,1998,1998,1998,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5403,,,,5403,,4656,,,0
+H0,1998,1998,1998,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,570,,,,570,,7123,,,0
+H0,1998,1998,1998,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,68711,,,,68711,,11173,,,0
+H0,1998,1998,1998,4,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,66,,,0
+H0,1998,1998,1998,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1844805,,,,1844805,,1287213,,,0
+H0,1998,1998,1998,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,23330080,,,,23330080,,22870960,,,0
+H0,1998,1998,1998,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,132440,,,,132440,,174115,,,0
+H0,1998,1998,1998,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3092,,,,3092,,12272,,,0
+H0,1998,1998,1998,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,48874744,,,,48874744,,78249384,,,0
+H0,1998,1998,1998,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,556095,,,,556095,,1514325,,,0
+H0,1998,1998,1998,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,570,,,,0,,101565,,,0
+H0,1998,1998,1998,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,422,,,,422,,712,,,0
+H0,1998,1998,1998,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,5362932,,,,5362932,,4046326,,,0
+H0,1998,1998,1998,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2316,,,,2316,,3011,,,0
+H0,1998,1998,1998,4,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,77654,,,,0,,79826,,,0
+H0,1998,1998,1998,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,390412,,,,390412,,347776,,,0
+H0,1998,1998,1998,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40910832,,,,40910832,,9911348,,,0
+H0,1998,1998,1998,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4220976,,,,4220976,,2757462,,,0
+H0,1998,1998,1998,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,30932,,,,30932,,6412,,,0
+H0,1998,1998,1998,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,66,,,,66,,9208,,,0
+H0,1998,1998,1998,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,49030,,,,49030,,12651,,,0
+H0,1998,1998,1998,4,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,21530,,,,21530,,21729,,,0
+H0,1998,1998,1998,4,0,1,Import,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,1198911,,,,0,,7029798,,,0
+H0,1998,1998,1998,4,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,272,,,,0,,6352,,,0
+H0,1998,1998,1998,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,12085194,,,,12085194,,3964112,,,0
+H0,1998,1998,1998,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2452857,,,,2452857,,946111,,,0
+H0,1998,1998,1998,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7689093,,,,7689093,,6295120,,,0
+H0,1998,1998,1998,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2081,,,,2081,,12521,,,0
+H0,1998,1998,1998,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,46362,,,,46362,,312913,,,0
+H0,1998,1998,1998,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,3328985,,,,3328985,,4889965,,,0
+H0,1998,1998,1998,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,25689546,,,,25689546,,36242820,,,0
+H0,1998,1998,1998,4,0,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1374184,,,,1374184,,1227182,,,0
+H0,1998,1998,1998,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,293309,,,,293309,,485229,,,0
+H0,1998,1998,1998,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,98441,,,,98441,,64437,,,0
+H0,1998,1998,1998,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,161241,,,,161241,,754861,,,0
+H0,1998,1998,1998,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,182,,,,182,,4007,,,0
+H0,1998,1998,1998,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,52566084,,,,52566084,,41841732,,,0
+H0,1998,1998,1998,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,8525601,,,,8525601,,8285257,,,0
+H0,1998,1998,1998,4,0,1,Import,795,Turkmenistan,TKM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,227,,,0
+H0,1998,1998,1998,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17325412,,,,17325412,,6293693,,,0
+H0,1998,1998,1998,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,102913,,,,102913,,75985,,,0
+H0,1998,1998,1998,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,34947,,,,34947,,70709,,,0
+H0,1998,1998,1998,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4891005,,,,4891005,,2536627,,,0
+H0,1998,1998,1998,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1033405,,,,1033405,,96602,,,0
+H0,1998,1998,1998,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1003000,,,,1003000,,1900000,,,0
+H0,1998,1998,1998,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,7000,,,0
+H0,1999,1999,1999,4,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2757,,,,2757,,4773,,,0
+H0,1999,1999,1999,4,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1205,,,,1205,,12823,,,0
+H0,1999,1999,1999,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2956995,,,,2956995,,1660870,,,0
+H0,1999,1999,1999,4,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,17374682,,,,17374682,,21003064,,,0
+H0,1999,1999,1999,4,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,71585,,,,71585,,80212,,,0
+H0,1999,1999,1999,4,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,59866,,,,59866,,796277,,,0
+H0,1999,1999,1999,4,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,62604276,,,,62604276,,74148032,,,0
+H0,1999,1999,1999,4,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1137073,,,,1137073,,1960191,,,0
+H0,1999,1999,1999,4,0,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,5,Number of items,87,,,,0,,342006,,,0
+H0,1999,1999,1999,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,278,,,,278,,883,,,0
+H0,1999,1999,1999,4,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,40,,,,40,,370,,,0
+H0,1999,1999,1999,4,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,6561875,,,,6561875,,4399972,,,0
+H0,1999,1999,1999,4,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2750,,,,2750,,3224,,,0
+H0,1999,1999,1999,4,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,62940535,,,,62940535,,2212686,,,0
+H0,1999,1999,1999,4,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,1111957,,,,1111957,,50695,,,0
+H0,1999,1999,1999,4,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,106633,,,,106633,,379516,,,0
+H0,1999,1999,1999,4,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,53668712,,,,53668712,,10340496,,,0
+H0,1999,1999,1999,4,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,46241,,,,46241,,2963285,,,0
+H0,1999,1999,1999,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,83,,,,83,,913,,,0
+H0,1999,1999,1999,4,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,20,,,,20,,50,,,0
+H0,1999,1999,1999,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4855,,,,4855,,30346,,,0
+H0,1999,1999,1999,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,24398,,,,24398,,6891,,,0
+H0,1999,1999,1999,4,0,1,Import,540,New Caledonia,NCL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4523,,,,4523,,15455,,,0
+H0,1999,1999,1999,4,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,199,,,,199,,1259,,,0
+H0,1999,1999,1999,4,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,14478170,,,,14478170,,3711421,,,0
+H0,1999,1999,1999,4,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,2987377,,,,2987377,,1397544,,,0
+H0,1999,1999,1999,4,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,7421691,,,,7421691,,7953675,,,0
+H0,1999,1999,1999,4,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,27827,,,,27827,,117561,,,0
+H0,1999,1999,1999,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,65177,,,,65177,,343109,,,0
+H0,1999,1999,1999,4,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50,,,,50,,1185,,,0
+H0,1999,1999,1999,4,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,1,No Quantity,0,,,,0,,158000,,,0
+H0,1999,1999,1999,4,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,168604,,,,168604,,404000,,,0
+H0,1999,1999,1999,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,77454896,,,,77454896,,50468304,,,0
+H0,1999,1999,1999,4,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,10458867,,,,10458867,,8923485,,,0
+H0,1999,1999,1999,4,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,13607282,,,,13607282,,4324495,,,0
+H0,1999,1999,1999,4,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,35533,,,,35533,,4989,,,0
+H0,1999,1999,1999,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,11195,,,,11195,,16180,,,0
+H0,1999,1999,1999,4,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,4929566,,,,4929566,,2154811,,,0
+H0,1999,1999,1999,4,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,794728,,,,794728,,70509,,,0
+H0,1999,1999,1999,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,50000,,,,50000,,68000,,,0
+H0,1999,1999,1999,4,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,6309,Worn clothing and other worn articles,8,Weight in kilograms,232000,,,,232000,,190000,,,0
